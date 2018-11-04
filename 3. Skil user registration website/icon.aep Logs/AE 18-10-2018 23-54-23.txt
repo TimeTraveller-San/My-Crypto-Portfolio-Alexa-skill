@@ -1,0 +1,12 @@
+Adobe After Effects v14.1 Windows 64 render log for project “icon.aep”
+
+Rendering started on 18-10-2018 at 23:54:23
+
+  18-10-2018 23:54:23: Starting composition “Comp 1”.
+
+  Output To: C:\Users\Time Traveller\Desktop\alexa register\final_v1.png    18-10-2018 23:54:24: Finished composition “Comp 1”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 18-10-2018 at 23:54:24
+
